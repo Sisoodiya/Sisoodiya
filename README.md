@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate programmer and technology enthusi
 
 ## 📈 GitHub Stats
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay-singh-sisoodiya&show_icons=true&theme=radical)
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sisoodiya&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
