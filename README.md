@@ -33,17 +33,15 @@ Welcome to my GitHub profile! I'm a passionate programmer and technology enthusi
 
 ## 📫 How to Reach Me
 
-- Email: [abhay@example.com](mailto:abhaysingh2005xyz@gmail.com)
-- LinkedIn: [Abhay Singh Sisoodiya]([https://www.linkedin.com/in/abhay-singh-sisoodiya/](https://www.linkedin.com/in/abhay-singh-sisoodiya-859a63299/))
-- Twitter: [@abhaysisoodiya]([https://twitter.com/abhaysisoodiya](https://x.com/Abhay_Sisoodiya))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-singh-sisoodiya/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhaysisoodiya)
 
 ## 🌟 Projects
 
 Here are some of the projects I'm working on or have contributed to:
 
-- **[Project Name 1](https://github.com/abhay-singh-sisoodiya/project-name-1)**: Brief description of the project.
-- **[Project Name 2](https://github.com/abhay-singh-sisoodiya/project-name-2)**: Brief description of the project.
-- **[Project Name 3](https://github.com/abhay-singh-sisoodiya/project-name-3)**: Brief description of the project.
+
 
 Feel free to check out my repositories and leave a star if you find them useful!
 
