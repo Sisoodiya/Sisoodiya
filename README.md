@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm a passionate programmer and technology enthusi
 
 ## 📫 How to Reach Me
 
-- Email: [abhay@example.com](mailto:abhay@example.com)
-- LinkedIn: [Abhay Singh Sisoodiya](https://www.linkedin.com/in/abhay-singh-sisoodiya/)
-- Twitter: [@abhaysisoodiya](https://twitter.com/abhaysisoodiya)
+- Email: [abhay@example.com](mailto:abhaysingh2005xyz@gmail.com)
+- LinkedIn: [Abhay Singh Sisoodiya]([https://www.linkedin.com/in/abhay-singh-sisoodiya/](https://www.linkedin.com/in/abhay-singh-sisoodiya-859a63299/))
+- Twitter: [@abhaysisoodiya]([https://twitter.com/abhaysisoodiya](https://x.com/Abhay_Sisoodiya))
 
 ## 🌟 Projects
 
